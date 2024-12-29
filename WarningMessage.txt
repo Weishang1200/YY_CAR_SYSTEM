@@ -1,0 +1,56 @@
+Assets\YY_CAR_SYSTEM\SOURCECODES\LIVE_CAMERA_ON_HELI.cs(14,14): warning CS0114: 'LIVE_CAMERA_ON_HELI.Interact()' hides inherited member 'UdonSharpBehaviour.Interact()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\LIVE_CAMERA_CHANGE_TARGET.cs(16,14): warning CS0114: 'LIVE_CAMERA_CHANGE_TARGET.Interact()' hides inherited member 'UdonSharpBehaviour.Interact()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\RESET_CHECK_POINT_MANAGER.cs(16,17): warning CS0114: 'RESET_CHECK_POINT_MANAGER.Interact()' hides inherited member 'UdonSharpBehaviour.Interact()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\CHECK_POINT.cs(33,14): warning CS0114: 'CHECK_POINT.OnPlayerRespawn(VRCPlayerApi)' hides inherited member 'UdonSharpBehaviour.OnPlayerRespawn(VRCPlayerApi)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\GETOFF.cs(11,17): warning CS0114: 'GETOFF.Interact()' hides inherited member 'UdonSharpBehaviour.Interact()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\SHOW_WHEN_STANDING.cs(16,8): warning CS0114: 'SHOW_WHEN_STANDING.OnPlayerTriggerEnter(VRCPlayerApi)' hides inherited member 'UdonSharpBehaviour.OnPlayerTriggerEnter(VRCPlayerApi)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\SHOW_WHEN_STANDING.cs(23,8): warning CS0114: 'SHOW_WHEN_STANDING.OnPlayerTriggerExit(VRCPlayerApi)' hides inherited member 'UdonSharpBehaviour.OnPlayerTriggerExit(VRCPlayerApi)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\PASSANGERS_SEAT.cs(49,17): warning CS0114: 'PASSANGERS_SEAT.Interact()' hides inherited member 'UdonSharpBehaviour.Interact()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\RESPAWN_CAR.cs(13,7): warning CS0114: 'RESPAWN_CAR.Interact()' hides inherited member 'UdonSharpBehaviour.Interact()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\DRIVERS_SEAT.cs(17,17): warning CS0114: 'DRIVERS_SEAT.Interact()' hides inherited member 'UdonSharpBehaviour.Interact()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\CHANGE_CONTROL.cs(15,17): warning CS0114: 'CHANGE_CONTROL.Interact()' hides inherited member 'UdonSharpBehaviour.Interact()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\CHANGE_SWITCH.cs(11,14): warning CS0114: 'CHANGE_SWITCH.Interact()' hides inherited member 'UdonSharpBehaviour.Interact()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\HANDLE_GRIP.cs(32,17): warning CS0114: 'HANDLE_GRIP.InputGrab(bool, UdonInputEventArgs)' hides inherited member 'UdonSharpBehaviour.InputGrab(bool, UdonInputEventArgs)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\HIDE_WHEN_STANDING.cs(15,8): warning CS0114: 'HIDE_WHEN_STANDING.OnPlayerTriggerEnter(VRCPlayerApi)' hides inherited member 'UdonSharpBehaviour.OnPlayerTriggerEnter(VRCPlayerApi)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\HIDE_WHEN_STANDING.cs(21,8): warning CS0114: 'HIDE_WHEN_STANDING.OnPlayerTriggerExit(VRCPlayerApi)' hides inherited member 'UdonSharpBehaviour.OnPlayerTriggerExit(VRCPlayerApi)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\GETKEY.cs(40,14): warning CS0114: 'GETKEY.InputJump(bool, UdonInputEventArgs)' hides inherited member 'UdonSharpBehaviour.InputJump(bool, UdonInputEventArgs)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\GETKEY.cs(43,17): warning CS0114: 'GETKEY.InputUse(bool, UdonInputEventArgs)' hides inherited member 'UdonSharpBehaviour.InputUse(bool, UdonInputEventArgs)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\GETKEY.cs(46,17): warning CS0114: 'GETKEY.InputGrab(bool, UdonInputEventArgs)' hides inherited member 'UdonSharpBehaviour.InputGrab(bool, UdonInputEventArgs)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\GETKEY.cs(49,17): warning CS0114: 'GETKEY.InputDrop(bool, UdonInputEventArgs)' hides inherited member 'UdonSharpBehaviour.InputDrop(bool, UdonInputEventArgs)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\GETKEY.cs(52,17): warning CS0114: 'GETKEY.InputMoveHorizontal(float, UdonInputEventArgs)' hides inherited member 'UdonSharpBehaviour.InputMoveHorizontal(float, UdonInputEventArgs)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\GETKEY.cs(55,17): warning CS0114: 'GETKEY.InputMoveVertical(float, UdonInputEventArgs)' hides inherited member 'UdonSharpBehaviour.InputMoveVertical(float, UdonInputEventArgs)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\GETKEY.cs(58,17): warning CS0114: 'GETKEY.InputLookHorizontal(float, UdonInputEventArgs)' hides inherited member 'UdonSharpBehaviour.InputLookHorizontal(float, UdonInputEventArgs)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\GETKEY.cs(61,17): warning CS0114: 'GETKEY.InputLookVertical(float, UdonInputEventArgs)' hides inherited member 'UdonSharpBehaviour.InputLookVertical(float, UdonInputEventArgs)'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\CHANGE_CAMERA_SETTINGS_WHEN_PLATFORM_SWITCHED.cs(13,3): warning CS0618: 'EditorUserBuildSettings.activeBuildTargetChanged' is obsolete: 'UnityEditor.activeBuildTargetChanged has been deprecated.Use UnityEditor.Build.IActiveBuildTargetChanged instead.'
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\SWITCH_MATERIAL_WHEN_PLATFORM_SWITCHED.cs(11,3): warning CS0618: 'EditorUserBuildSettings.activeBuildTargetChanged' is obsolete: 'UnityEditor.activeBuildTargetChanged has been deprecated.Use UnityEditor.Build.IActiveBuildTargetChanged instead.'
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\CHANGE_LAYER_WHEN_PLATFORM_SWITCHED.cs(11,3): warning CS0618: 'EditorUserBuildSettings.activeBuildTargetChanged' is obsolete: 'UnityEditor.activeBuildTargetChanged has been deprecated.Use UnityEditor.Build.IActiveBuildTargetChanged instead.'
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\PLAY_TIRE_SND.cs(26,18): warning CS0618: 'UdonSharpBehaviour.VRCInstantiate(GameObject)' is obsolete: 'This method is obsolete, use Object.Instantiate(gameObject) instead'
+
+Assets\YY_CAR_SYSTEM\SOURCECODES\FORCE_CAMERA_FRAMERATE.cs(10,24): warning CS0414: The field 'FORCE_CAMERA_FRAMERATE.ANDROID_FPS' is assigned but its value is never used
+
